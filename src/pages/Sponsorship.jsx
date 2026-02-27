@@ -5,7 +5,7 @@ import { registerDonation } from '../services/donations';
 import { useNavigate } from 'react-router-dom';
 import { useLocation } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
-import AnonDonorModal from '../components/AnonDonorModal';
+import AnonDonorModal from '../components/Anondonormodal';
 import Footer from '../components/Footer';
 
 // ── Configuración de pagos ──────────────────────────────
